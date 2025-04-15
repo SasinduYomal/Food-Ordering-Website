@@ -1,8 +1,9 @@
 .navbar{
-    padding: 20px opx;
+    padding: 20px 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 .navbar .logo{
     width: 150px;
